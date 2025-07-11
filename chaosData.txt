@@ -1,0 +1,111 @@
+update payment gateway integration for US users  
+email from Raj: issues with Singapore tax compliance  
+hire frontend intern before next sprint  
+cancel HubSpot — too expensive  
+need marketing brief for food app launch  
+follow up with legal re: vendor contracts  
+meeting with Tanya and design team resched to Friday  
+add subscription tier comparison to landing page  
+LinkedIn DM from VC — schedule intro?  
+server down 3AM last night — logs needed  
+Q2 goals update pending in dashboard  
+SEO score dropped after blog redesign  
+what’s the current CAC for mobile users  
+finance tool trial expiring  
+resend onboarding email to 15 new users  
+new API docs pushed? notify DevRel  
+app store screenshots outdated  
+fix logout bug on iOS 17  
+get final budget from product head  
+what happened to our AI assistant POC?  
+users asking for dark mode  
+Ananya’s feedback on pitch deck — where’s that file?  
+need TDS certificates from vendors  
+blog idea: how we scaled from 10 to 10k users  
+dev sprint retrospective due today  
+check LinkedIn impressions for founder story  
+wireframes for v2 checkout page?  
+rescue backend DB backups  
+Vinay off this week, who’s replacing?  
+Stripe webhook firing twice  
+password reset UX broken on Safari  
+design team wants copy freeze by Friday  
+community asking for merch  
+reply to that Forbes interview request  
+why did our churn rate increase last month?  
+need to prep Series A slides  
+issue with SMS gateway (Twilio down?)  
+refresh partner logos on homepage  
+Figma file access issue  
+GTM tracking not firing on contact form  
+check with Prateek if the new email flow works  
+refactor settings panel  
+organize photos from last team offsite  
+is Notion AI exporting correctly?  
+Aditya wants quote for infra costs  
+hiring dashboard bug: candidates not showing  
+where’s the MOU for the Delhi office?  
+can we build a small demo for Google AI day  
+track tickets raised after chatbot rollout  
+daily active users dipped 5% — investigate  
+assign someone to reply to App Store reviews  
+make copy more inclusive on About page  
+new hire IT checklist missing antivirus step  
+check who’s owner of Figma team account  
+build pricing calculator widget  
+Rohit’s leaving — send exit interview form  
+push blog post on "SaaS Retention 101"  
+get speaker bio to NASSCOM by Thursday  
+refund policy page missing from mobile nav  
+do we support UPI Autopay?  
+target female users in next ad campaign  
+set up calendar links in founder bios  
+merge Zapier workflows  
+CSAT survey too long — shorten  
+press kit outdated  
+confirm investor dinner RSVP  
+Slack backup exports failing  
+research top 10 user-requested features  
+Arti waiting for approval on new hiring JD  
+launch beta for UK users  
+Google Maps review ratings not updating  
+who owns the Trello board for roadmap?  
+automate user ID generation for API  
+update README for plugin SDK  
+beta feedback from Spain cohort pending  
+update privacy policy per GDPR changes  
+missed deadline on SOC2 readiness  
+new idea: community-based voting system  
+Ritika had legal concern about new terms  
+email campaign CTR is low  
+where’s the latest product explainer video  
+postmortem on last rollout delay  
+need startup logo in SVG format  
+update copyright year footer  
+localize checkout for UAE market  
+devs asking for JSON schema for invoice API  
+make dashboard mobile-responsive  
+remove friction in password creation flow  
+screenshot gallery not loading on Firefox  
+post job on AngelList  
+Vinod needs mentor for LLM internship  
+analyze top converting CTA colors  
+SSL cert expiry coming soon  
+interview feedback form has typos  
+where do we track AWS usage bills again?  
+write onboarding flow for enterprise clients  
+next product town hall date?  
+team calendar not syncing with Google  
+cross-browser testing overdue  
+ask legal about creator contracts  
+new joiners need LMS access  
+why is lead score stuck at 80?  
+one-pager for enterprise pricing needed  
+GitHub stars dropped — any idea why?  
+NDA template not updated  
+can we build Slack bot for leave tracker?  
+Airtable API limits hit  
+fix nav bar animation flicker  
+open roles not updated on careers page  
+verify if Salesforce is integrated with CRM  
+help Naina test 2FA flow  
