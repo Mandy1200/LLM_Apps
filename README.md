@@ -41,7 +41,7 @@
   <pre>
 TheChaosDataset/
 ├── chaosData.txt      # Raw unstructured task list
-├── struc.txt          # structured data
+├── struc.txt/UnchoasData.txt          # structured data
   </pre>
 
   <h2>⚙️ How to Run</h2>
@@ -50,7 +50,7 @@ TheChaosDataset/
     <li>Run the script:
       <pre>python main.py</pre>
     </li>
-    <li>Output will be saved to  <code>struc.txt</code></li>
+    <li>Output will be saved to  <code>struc.txt</code> or more formally <code>unchaosdata.txt</li> 
   </ol>
 
   <h2>✅ Output Sample</h2>
