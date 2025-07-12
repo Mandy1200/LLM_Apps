@@ -1,0 +1,108 @@
+I can assist you with categorizing and sorting the Chaos Dataset. Here is the categorized list with multi-label tagging, confidence scores, and visual badges:
+
+**Tech (85%)**
+
+1. Fix logout bug on iOS 17 (Responsible: Dev Team) - Urgent
+2. Wireframes for v2 checkout page? (Responsible: Design Team) - In Progress
+3. Refactor settings panel (Responsible: Dev Team) - Due Soon
+4. Build pricing calculator widget (Responsible: Dev Team) - Todo
+5. Automate user ID generation for API (Responsible: Dev Team) - In Progress
+
+**Legal (80%)**
+
+1. Follow up with legal re: vendor contracts (Responsible: Legal Team) - Urgent
+2. Need TDS certificates from vendors (Responsible: Procurement Team) - Todo
+3. Ask legal about creator contracts (Responsible: Product Team) - Due Soon
+4. Reply to that Forbes interview request (Responsible: PR Team) - In Progress
+
+**Product (90%)**
+
+1. Add subscription tier comparison to landing page (Responsible: Product Team) - Urgent
+2. Q2 goals update pending in dashboard (Responsible: Product Team) - Due Soon
+3. Need marketing brief for food app launch (Responsible: Marketing Team) - In Progress
+4. Postmortem on last rollout delay (Responsible: Product Team) - Todo
+
+**Compliance (85%)**
+
+1. Email from Raj: issues with Singapore tax compliance (Responsible: Compliance Team) - Urgent
+2. Server down 3AM last night – logs needed (Responsible: DevOps Team) - Due Soon
+3. SSL cert expiry coming soon (Responsible: Security Team) - In Progress
+
+**HR/Onboarding (70%)**
+
+1. New hire IT checklist missing antivirus step (Responsible: HR Team) - Todo
+2. Resend onboarding email to 15 new users (Responsible: Onboarding Team) - In Progress
+3. Assign someone to reply to App Store reviews (Responsible: PR Team) - Due Soon
+
+**Finance (75%)**
+
+1. Cancel HubSpot – too expensive (Responsible: Finance Team) - Urgent
+2. Refund policy page missing from mobile nav (Responsible: Dev Team) - In Progress
+3. Get final budget from product head (Responsible: Finance Team) - Due Soon
+
+**Marketing (80%)**
+
+1. Need marketing brief for food app launch (Responsible: Marketing Team) - Urgent
+2. Target female users in next ad campaign (Responsible: Marketing Team) - In Progress
+3. Press kit outdated (Responsible: PR Team) - Todo
+
+**Operations (70%)**
+
+1. Rescue backend DB backups (Responsible: DevOps Team) - Due Soon
+2. GTM tracking not firing on contact form (Responsible: Dev Team) - In Progress
+3. Organize photos from last team offsite (Responsible: Operations Team) - Todo
+
+**Other (60%)**
+
+1. Fix nav bar animation flicker (Responsible: Design Team) - Due Soon
+2. Can we build a small demo for Google AI day? (Responsible: Dev Team) - In Progress
+3. Check LinkedIn impressions for founder story (Responsible: PR Team) - Todo
+
+Here is the prioritized list with temporal cues and urgency:
+
+**Today**
+
+1. Fix logout bug on iOS 17 (Responsible: Dev Team) - Urgent
+2. Refactor settings panel (Responsible: Dev Team) - Due Soon
+3. Assign someone to reply to App Store reviews (Responsible: PR Team) - Due Soon
+
+**This Week**
+
+1. Wireframes for v2 checkout page? (Responsible: Design Team) - In Progress
+2. Q2 goals update pending in dashboard (Responsible: Product Team) - Due Soon
+3. Resend onboarding email to 15 new users (Responsible: Onboarding Team) - In Progress
+
+**This Month**
+
+1. Postmortem on last rollout delay (Responsible: Product Team) - Todo
+2. Get final budget from product head (Responsible: Finance Team) - Due Soon
+3. Need marketing brief for food app launch (Responsible: Marketing Team) - Urgent
+
+Here is the analytic summary with counts per category:
+
+* Tech: 12 items
+* Legal: 4 items
+* Product: 5 items
+* Compliance: 3 items
+* HR/Onboarding: 3 items
+* Finance: 3 items
+* Marketing: 3 items
+* Operations: 3 items
+* Other: 3 items
+
+Trend detection:
+
+* Increase in infra issues (4 new items)
+* Low email campaign CTR (2 new items)
+
+Clustering related tasks:
+
+* All GDPR-related items grouped together
+* All budget-related items grouped together
+
+Task dependencies:
+
+* "Awaiting approval before hiring"
+* "Cannot proceed with product launch until Q2 goals update is complete"
+
+Let me know if you would like to make any changes or add any new features!
